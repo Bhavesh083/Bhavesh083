@@ -1,4 +1,4 @@
-![](https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg)
+![](https://www.reachfirst.com/wp-content/uploads/2018/08/Web-Development.jpg)
 
 <h1 align="center">Hi 👋🏻, I'm Bhavesh Kumar</h1>
 <h3 align="center">An aspiring web developer! 💻 </h3>
