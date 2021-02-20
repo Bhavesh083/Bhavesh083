@@ -1,4 +1,4 @@
-![](https://www.reachfirst.com/wp-content/uploads/2018/08/Web-Development.jpg)
+![](https://www.clipartmax.com/png/middle/283-2833078_specializing-in-small-business-web-design-development-icon-for-website-design.png)
 
 <h1 align="center">Hi 👋🏻, I'm Bhavesh Kumar</h1>
 <h3 align="center">An aspiring web developer! 💻 </h3>
