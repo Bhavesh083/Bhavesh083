@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bhavesh Kumar</h1>
+<h1 align="center">Hi 👋🏻, I'm Bhavesh Kumar</h1>
 <h3 align="center">An aspiring web developer!</h3>
 
-- I’m currently learning **Express , MongoDB**
+-🔥 I’m currently learning **Express , MongoDB**
 
-- Reach me on **19113083@student.hindustanuniv.ac.in**
+-📝 Reach me on **19113083@student.hindustanuniv.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
