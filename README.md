@@ -1,5 +1,3 @@
-![](https://png.pngtree.com/png-vector/20190611/ourlarge/pngtree-web-development-illustration-modern-can-be-used-for-landing-pages-web-png-image_1496210.jpg)
-
 <h1 align="center">Hi 👋🏻, I'm Bhavesh Kumar</h1>
 <h3 align="center">An aspiring web developer! 💻 </h3>
 
