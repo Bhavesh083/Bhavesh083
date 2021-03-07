@@ -3,7 +3,7 @@
 
 🔥 I’m currently learning **Express , MongoDB**
 
-📝 Reach me on **19113083@student.hindustanuniv.ac.in**
+📝 Reach me on **cherrybobby665@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
