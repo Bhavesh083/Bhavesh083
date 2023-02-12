@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Bhavesh Kumar</h1>
 <h3 align="center">An aspiring web developer! 💻 </h3>
 
-🔥 I’m currently learning **Express , MongoDB**
 
 📝 Reach me on **cherrybobby665@gmail.com**
 
